@@ -1,3 +1,6 @@
+// Student: Farah Alhasan
+// Student Number: 21120205709
+
 // Week 3 Homework - OOP in Dart (Secretary, Teacher, Student)
 // Covers: functions, classes, inheritance, polymorphism, encapsulation
 // Run with: dart run school.dart
